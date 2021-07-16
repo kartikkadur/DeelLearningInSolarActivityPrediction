@@ -19,6 +19,8 @@ A survey of deep learning methods used in solar activity prediction
 
 ## Coronal Mass Ejection
 * https://iopscience.iop.org/article/10.3847/1538-4357/ab0d24/meta
+* https://iopscience.iop.org/article/10.3847/0004-637X/821/2/127/meta
+* https://ieeexplore.ieee.org/abstract/document/9323169
 
 ## Coronal Holes
 * https://iopscience.iop.org/article/10.3847/1538-4357/abb94d/meta
