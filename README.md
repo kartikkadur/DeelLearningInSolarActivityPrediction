@@ -23,7 +23,7 @@ A survey of deep learning methods used in solar activity prediction
 
 ## Coronal Mass Ejection
 | Link to paper | Data used | published year | Selected for report |
-| ------------- | ----------  | ---------------- |
+| ------------- | ----------  | ---------------- | ------------- |
 | https://iopscience.iop.org/article/10.3847/1538-4357/ab0d24/meta  | WIND | - | - |
 | https://iopscience.iop.org/article/10.3847/0004-637X/821/2/127/meta | GOES | - | yes |
 | https://ieeexplore.ieee.org/abstract/document/9323169 | LASCO | Oct, 2020 | - |
