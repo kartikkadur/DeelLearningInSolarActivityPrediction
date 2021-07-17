@@ -7,7 +7,7 @@ A survey of deep learning methods used in solar activity prediction
 * https://www.nature.com/articles/182468b0
 
 ### Solar Flare Prediction
-| Link to paper | Data used | | published year  | Selected for report |
+| Link to paper | Data used | published year  | Selected for report |
 | ------------- | ----------  | ---------------- |  ----------------- |
 | https://ieeexplore.ieee.org/abstract/document/9377915 | SDO/HMI | March, 2021  | yes |
 | https://ieeexplore.ieee.org/abstract/document/9207284 | SDO/HMI | September, 2020 | - |
@@ -30,8 +30,8 @@ A survey of deep learning methods used in solar activity prediction
 | https://ieeexplore.ieee.org/abstract/document/9207284 | GOES X-ray | July, 2020 |  yes |
 
 ## Coronal Holes
-| Link to paper | Data used | Selected for report |
-| ------------- | ----------  | ---------------- |
-| https://iopscience.iop.org/article/10.3847/1538-4357/abb94d/meta  | - | - |
-| https://arxiv.org/pdf/1809.05748  | - | - |
-| https://ieeexplore.ieee.org/abstract/document/8855114 | - | - |
+| Link to paper | Data used | published year | Selected for report |
+| ------------- | ----------  | ---------------- | ---------------- |
+| https://iopscience.iop.org/article/10.3847/1538-4357/abb94d/meta  | SDO/AIA | Nov, 2020 | yes |
+| https://arxiv.org/pdf/1809.05748  | SDO/HMI AIA | Sup, 2018 | Yes |
+| https://ieeexplore.ieee.org/abstract/document/8855114 | - | - | - |
