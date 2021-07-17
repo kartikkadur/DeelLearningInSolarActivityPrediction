@@ -7,27 +7,27 @@ A survey of deep learning methods used in solar activity prediction
 * https://www.nature.com/articles/182468b0
 
 ### Solar Flare Prediction
-| Link to paper | Data used | Selected for report |
-| ------------- | ----------  | ---------------- |
-| https://ieeexplore.ieee.org/abstract/document/9377915 | SDO/HMI | - |
-| https://ieeexplore.ieee.org/abstract/document/9207284 | SDO/HMI | - |
-| https://iopscience.iop.org/article/10.3847/1538-4357/ab6d04/meta | SDO/HMI |  yes |
-| https://iopscience.iop.org/article/10.3847/1538-4357/aaae00/meta | SDO/HMI |  yes |
-| https://iopscience.iop.org/article/10.3847/1538-4357/aab9a7/meta | SDO/HMI |  yes |
+| Link to paper | Data used | | published year  | Selected for report |
+| ------------- | ----------  | ---------------- |  ----------------- |
+| https://ieeexplore.ieee.org/abstract/document/9377915 | SDO/HMI | March, 2021  | yes |
+| https://ieeexplore.ieee.org/abstract/document/9207284 | SDO/HMI | September, 2020 | - |
+| https://iopscience.iop.org/article/10.3847/1538-4357/ab6d04/meta | SDO/HMI | Feb, 2020 | yes |
+| https://iopscience.iop.org/article/10.3847/1538-4357/aaae00/meta | SDO/HMI | March, 2018 | yes |
+| https://iopscience.iop.org/article/10.3847/1538-4357/aab9a7/meta | SDO/HMI | May, 2018 | yes |
 
 ## Solar Wind Speed Prediction
-| Link to paper | Data used | Selected for report |
-| ------------- | ----------  | ---------------- |
-| https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020SW002707  | na  | - |
-| https://arxiv.org/abs/2006.05825 | na | - |
+| Link to paper | Data used | published year | Selected for report |
+| ------------- | ----------  | ---------------- | -------------- |
+| https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020SW002707  | OMNIWEB  | May, 2021 | yes |
+| https://arxiv.org/abs/2006.05825 | OMNIWEB | June, 2020 | yes |
 
 ## Coronal Mass Ejection
-| Link to paper | Data used | Selected for report |
+| Link to paper | Data used | published year | Selected for report |
 | ------------- | ----------  | ---------------- |
-| https://iopscience.iop.org/article/10.3847/1538-4357/ab0d24/meta  | - | - |
-| https://iopscience.iop.org/article/10.3847/0004-637X/821/2/127/meta | - | - |
-| https://ieeexplore.ieee.org/abstract/document/9323169 | - | - |
-| https://ieeexplore.ieee.org/abstract/document/9207284 | - | - |
+| https://iopscience.iop.org/article/10.3847/1538-4357/ab0d24/meta  | WIND | - | - |
+| https://iopscience.iop.org/article/10.3847/0004-637X/821/2/127/meta | GOES | - | yes |
+| https://ieeexplore.ieee.org/abstract/document/9323169 | LASCO | Oct, 2020 | - |
+| https://ieeexplore.ieee.org/abstract/document/9207284 | GOES X-ray | July, 2020 |  yes |
 
 ## Coronal Holes
 | Link to paper | Data used | Selected for report |
