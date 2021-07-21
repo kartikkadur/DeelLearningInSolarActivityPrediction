@@ -32,6 +32,5 @@ A survey of deep learning methods used in solar activity prediction
 ## Coronal Holes
 | Link to paper | Data used | published year | Selected for report |
 | ------------- | ----------  | ---------------- | ---------------- |
-| https://iopscience.iop.org/article/10.3847/1538-4357/abb94d/meta  | SDO/AIA | Nov, 2020 | yes |
 | https://arxiv.org/pdf/1809.05748  | SDO/HMI AIA | Sup, 2018 | Yes |
 | https://www.aanda.org/articles/aa/pdf/forth/aa40640-21.pdf | SDO/AIA | May, 2021 | yes |
